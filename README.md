@@ -22,7 +22,8 @@ There are some of my favourite projects:
 
 Don't hesitate to contact me on my social medias:
 
-- LinkedIn : [Lilian LOCHER](https://www.linkedin.com/in/lilian-locher/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilian-locher/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lilian.locher@epitech.eu)
 
 ---
 
