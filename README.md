@@ -26,13 +26,13 @@ There are some of my favourite projects:
 
 ## GitHub stats:
 
-![Vos Statistiques GitHub](lien vers l'image de vos statistiques GitHub)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Liloche19&show_icons=true&theme=radical)
 
 ## Contact me:
 
 Don't hesitate to contact me on my social medias:
 
-- LinkedIn : [Votre profil LinkedIn]
+- LinkedIn : [Lilian LOCHER](https://www.linkedin.com/in/lilian-locher/)
 
 ---
 
