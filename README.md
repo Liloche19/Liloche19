@@ -16,6 +16,8 @@
 - Programming languages: C, Python, Go, Rust.
 - Tools: Linux, GitHub, Notion.
 
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liloche19&layout=compact)
+
 ## Projects
 
 There are some of my favourite projects:
