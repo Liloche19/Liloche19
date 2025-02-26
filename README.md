@@ -26,7 +26,7 @@ There are some of my favourite projects:
 
 ## GitHub stats:
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Liloche19&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Liloche19&show_icons=true&theme=onedark)
 
 ## Contact me:
 
