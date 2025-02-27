@@ -12,6 +12,10 @@
 
 ## Projects
 
+Actual project:
+
+- [uniping](https://github.com/B0SEmc/uniping.git) : A Rust program that ping a target
+
 There are some of my favourite projects:
 
 - [Enigma](https://github.com/Liloche19/enigma.git) : A Python program that simulates the Enigma machine.
