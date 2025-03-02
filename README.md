@@ -2,32 +2,41 @@
 
 ## About me:
 
+- 🎂 : I'm 18 years old
+- 🎓 : I'm student in first year of the "Programme Grande École" at Epitech Mulhouse
+- My passions:
+  - 💫 : Astronomy / Astrophysics
+  - 🎬 : Movies / TV shows
+  - 📸 : Photography
+
 ## Programming languages:
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liloche19&layout=compact)
 
 ## Skills:
 
-- Tools: Linux, GitHub, Notion.
+- Linux
+- GitHub
+- Notion
 
 ## Projects
 
-Actual project:
+### Actual project:
 
 - [uniping](https://github.com/B0SEmc/uniping.git) : A Rust program that ping a target
 
-There are some of my favourite projects:
+### There are some of my favourite projects:
 
 - [Enigma](https://github.com/Liloche19/enigma.git) : A Python program that simulates the Enigma machine.
 - [nqueen_go](https://github.com/Liloche19/nqueen_go.git) : A multithreaded go program that calculates the number of solutions for the nqueen problem.
 - [password_solver](https://github.com/Liloche19/password_solver.git) : A C program that bruteforce the password of a user on linux.
+- [ping_spammer](https://github.com/Liloche19/ping_spammer.git) : A C program that create many processes that ping a target
 
 ## Contact me:
 
 Don't hesitate to contact me on my social medias:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilian-locher/)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lilian.locher@epitech.eu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilian-locher/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lilian.locher@epitech.eu)
 
 ---
 
