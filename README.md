@@ -2,8 +2,8 @@
 
 ## About me:
 
-- 🎂 : I'm 18 years old
-- 🎓 : I'm student in first year of the "Programme Grande École" at Epitech Mulhouse
+- 🎂 : I am 18 years old
+- 🎓 : I am student in first year of the "Programme Grande École" at Epitech Mulhouse
 - My passions:
   - 💫 : Astronomy / Astrophysics
   - 🎬 : Movies / TV shows
@@ -12,6 +12,12 @@
 ## Programming languages:
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liloche19&layout=compact)
+
+- C
+- Python
+- Go
+- Rust
+- NodeJS
 
 ## Skills:
 
@@ -23,7 +29,7 @@
 
 ### Actual project:
 
-- [uniping](https://github.com/B0SEmc/uniping.git) : A Rust program that ping a target
+- [MyImageFormat](https://github.com/Liloche19/MyImageFormat.git) : A Python (for now) library that transform / save / load / display an image using my methods
 
 ### There are some of my favourite projects:
 
@@ -31,6 +37,7 @@
 - [nqueen_go](https://github.com/Liloche19/nqueen_go.git) : A multithreaded go program that calculates the number of solutions for the nqueen problem.
 - [password_solver](https://github.com/Liloche19/password_solver.git) : A C program that bruteforce the password of a user on linux.
 - [ping_spammer](https://github.com/Liloche19/ping_spammer.git) : A C program that create many processes that ping a target
+- [uniping](https://github.com/B0SEmc/uniping.git) : A Rust program that pings a target
 
 ## Contact me:
 
