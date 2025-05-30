@@ -13,11 +13,12 @@
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liloche19&layout=compact)
 
-- C
-- Python
-- Go
-- Rust
-- NodeJS
+The languages I know, ranked from the one I am most skilled in to the one I am least skilled in:
+1) C
+2) Python
+3) Go
+4) Rust
+5) NodeJS
 
 ## Skills:
 
