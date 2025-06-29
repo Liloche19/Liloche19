@@ -3,7 +3,7 @@
 ## About me:
 
 - 🎂 : I am 18 years old
-- 🎓 : I am student in first year of the "Programme Grande École" at Epitech Mulhouse
+- 🎓 : I am a second year student in the "Programme Grande École" at Epitech Mulhouse
 - My passions:
   - 💫 : Astronomy / Astrophysics
   - 🎬 : Movies / TV shows
