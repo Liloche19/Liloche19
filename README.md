@@ -32,15 +32,16 @@ The languages I know, ranked from the one I am most skilled in to the one I am l
 
 ### Actual project:
 
-- [MyImageFormat](https://github.com/Liloche19/MyImageFormat.git) : A Python (for now) library that transform / save / load / display an image using my methods
+- [ImageVisualizer](https://github.com/Liloche19/ImageVisualizer) : A C program that displays any images in the terminal.
 
 ### There are some of my favourite projects:
 
 - [Enigma](https://github.com/Liloche19/enigma.git) : A Python program that simulates the Enigma machine.
 - [nqueen_go](https://github.com/Liloche19/nqueen_go.git) : A multithreaded go program that calculates the number of solutions for the nqueen problem.
 - [password_solver](https://github.com/Liloche19/password_solver.git) : A C program that bruteforce the password of a user on linux.
-- [ping_spammer](https://github.com/Liloche19/ping_spammer.git) : A C program that create many processes that ping a target
-- [uniping](https://github.com/B0SEmc/uniping.git) : A Rust program that pings a target
+- [ping_spammer](https://github.com/Liloche19/ping_spammer.git) : A C program that create many processes that ping a target.
+- [uniping](https://github.com/B0SEmc/uniping.git) : A Rust program that pings a target.
+- [MyImageFormat](https://github.com/Liloche19/MyImageFormat.git) : A Python (for now) library that transform / save / load / display an image using my methods.
 
 ## Contact me:
 
