@@ -8,6 +8,7 @@
   - 💫 : Astronomy / Astrophysics
   - 🎬 : Movies / TV shows
   - 📸 : Photography
+  - ✈️ : Aviation
 
 ## Programming languages:
 
