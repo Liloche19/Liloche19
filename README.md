@@ -1,55 +1,46 @@
-# Hello 👋, my name is Lilian LOCHER !
+# Hi, I'm Lilian Locher 👋
 
-## About me:
-
-- 🎂 : I am 18 years old
-- 🎓 : I am a second year student in the "Programme Grande École" at Epitech Mulhouse
-- My passions:
-  - 💫 : Astronomy / Astrophysics
-  - 🎬 : Movies / TV shows
-  - 📸 : Photography
-  - ✈️ : Aviation
-
-## Programming languages:
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liloche19&layout=compact)
-
-The languages I know, ranked from the one I am most skilled in to the one I am least skilled in:
-1) C
-2) Python
-3) NodeJS
-4) C++
-5) PHP
-6) Go
-7) Rust
-
-## Skills:
-
-- Linux
-- GitHub
-- Notion
-
-## Projects
-
-### Actual project:
-
-- [ImageVisualizer](https://github.com/Liloche19/ImageVisualizer) : A C program that displays any images in the terminal.
-
-### There are some of my favourite projects:
-
-- [Enigma](https://github.com/Liloche19/enigma.git) : A Python program that simulates the Enigma machine.
-- [nqueen_go](https://github.com/Liloche19/nqueen_go.git) : A multithreaded go program that calculates the number of solutions for the nqueen problem.
-- [password_solver](https://github.com/Liloche19/password_solver.git) : A C program that bruteforce the password of a user on linux.
-- [ping_spammer](https://github.com/Liloche19/ping_spammer.git) : A C program that create many processes that ping a target.
-- [uniping](https://github.com/B0SEmc/uniping.git) : A Rust program that pings a target.
-- [MyImageFormat](https://github.com/Liloche19/MyImageFormat.git) : A Python (for now) library that transform / save / load / display an image using my methods.
-
-## Contact me:
-
-Don't hesitate to contact me on my social medias:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilian-locher/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lilian.locher@epitech.eu)
+## About me
+- 🎓 Second-year student in the “Programme Grande École” at Epitech Mulhouse
+- 💫 Astronomy & Astrophysics enthusiast
+- 🎬 Movies & TV shows fan
+- 📸 Photography lover
+- ✈️ Aviation admirer
 
 ---
 
-Thank you visiting my page ! 😊
+## Tech stack
+- Languages: C, Python, Node.js, C++, PHP, Go, Rust
+- Tools: Linux, Git/GitHub, Notion
+
+---
+
+## What I’m working on
+- [ImageVisualizer](https://github.com/Liloche19/ImageVisualizer) — A C program that displays images directly in the terminal
+
+---
+
+## Featured projects
+- [Enigma](https://github.com/Liloche19/enigma) — Python program simulating the Enigma machine
+- [nqueen_go](https://github.com/Liloche19/nqueen_go) — Multithreaded Go program computing N-Queens solutions
+- [password_solver](https://github.com/Liloche19/password_solver) — C program for password bruteforce on Linux (for educational, authorized use)
+- [ping_spammer](https://github.com/Liloche19/ping_spammer) — C program spawning many processes to ping a target (for educational, authorized use)
+- [uniping](https://github.com/B0SEmc/uniping) — Rust utility to ping a target
+- [MyImageFormat](https://github.com/Liloche19/MyImageFormat) — Python library to transform / save / load / display images using custom methods
+
+---
+
+## GitHub stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liloche19&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liloche19&layout=compact)
+![Streak](https://streak-stats.demolab.com/?user=Liloche19)
+
+---
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/lilian-locher/)
+- lilian.locher@epitech.eu
+
+---
+
+Thanks for visiting! 😊
