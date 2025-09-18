@@ -31,9 +31,7 @@
 ---
 
 ## GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liloche19&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liloche19&layout=compact)
-![Streak](https://streak-stats.demolab.com/?user=Liloche19)
 
 ---
 
