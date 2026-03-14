@@ -16,8 +16,7 @@
 ---
 
 ## What I’m working on
-- [ImageVisualizer](https://github.com/Liloche19/ImageVisualizer) — A C program that displays images directly in the terminal
-
+[gameboy-emulator](https://github.com/Liloche19/gameboy-emulator) - A gameboy emulator made in C++
 ---
 
 ## Featured projects
@@ -27,6 +26,7 @@
 - [ping_spammer](https://github.com/Liloche19/ping_spammer) — C program spawning many processes to ping a target (for educational, authorized use)
 - [uniping](https://github.com/B0SEmc/uniping) — Rust utility to ping a target
 - [MyImageFormat](https://github.com/Liloche19/MyImageFormat) — Python library to transform / save / load / display images using custom methods
+- [ImageVisualizer](https://github.com/Liloche19/ImageVisualizer) — A C program that displays images directly in the terminal
 
 ---
 
