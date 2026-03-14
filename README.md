@@ -16,7 +16,7 @@
 ---
 
 ## What I’m working on
-[gameboy-emulator](https://github.com/Liloche19/gameboy-emulator) - A gameboy emulator made in C++
+- [gameboy-emulator](https://github.com/Liloche19/gameboy-emulator) - A gameboy emulator made in C++
 ---
 
 ## Featured projects
