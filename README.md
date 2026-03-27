@@ -10,7 +10,7 @@
 ---
 
 ## Tech stack
-- Languages: C, Python, Node.js, C++, PHP, Go, Rust
+- Languages: C, C++, Python, Rust, Node.js, PHP, Go
 - Tools: Linux, Git/GitHub, Notion
 
 ---
